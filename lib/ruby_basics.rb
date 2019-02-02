@@ -14,11 +14,13 @@ def argue(value)
   
 end
 
-def greeting
+def greeting(greeting, name)
+  
 
 end
 
 def return_a_value
+  "Nice"
 
 end
 
