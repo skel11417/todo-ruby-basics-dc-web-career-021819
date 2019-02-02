@@ -9,6 +9,7 @@ def assign_variable(value)
 end
 
 def argue(value)
+  value
   
   
 end
